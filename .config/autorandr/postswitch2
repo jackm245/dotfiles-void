@@ -1,0 +1,2 @@
+feh --bg-fill --randomize /usr/share/backgrounds/*
+/* ~/.config/polybar/launch.sh */

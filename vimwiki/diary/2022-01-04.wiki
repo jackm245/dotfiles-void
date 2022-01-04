@@ -1,0 +1,24 @@
+Todo List for today
+
+ - [ ] CS Coursework
+     - [ ] System flowchart
+     - [ ] Data flow diagram
+     - [ ] IPSO table
+ - [ ] Sort out files
+ - [ ] maths rev
+     - [ ] pure
+     - [ ] mech
+     - [ ] stats
+ - [.]  Physics rev
+     - [ ] Nuclear
+     - [X] Capacitance
+     - [X] Fields
+     - [ ] Circular Motion
+     - [ ] SHM
+     - [ ] Thermal
+     - [ ] Electricity
+     - [ ] Mech and Materials
+     - [ ] Waves
+     - [ ] Particles and Quantumn
+     - [ ] Measurements and their errors
+ - [ ] Make Some JL notes

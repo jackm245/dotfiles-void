@@ -1,0 +1,29 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Firefox-NFRNE1.desktop
+x-scheme-handler/https=userapp-Firefox-NFRNE1.desktop
+x-scheme-handler/chrome=userapp-Firefox-NFRNE1.desktop
+text/html=userapp-Firefox-NFRNE1.desktop
+application/x-extension-htm=userapp-Firefox-NFRNE1.desktop
+application/x-extension-html=userapp-Firefox-NFRNE1.desktop
+application/x-extension-shtml=userapp-Firefox-NFRNE1.desktop
+application/xhtml+xml=userapp-Firefox-NFRNE1.desktop
+application/x-extension-xhtml=userapp-Firefox-NFRNE1.desktop
+application/x-extension-xht=userapp-Firefox-NFRNE1.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Firefox-NFRNE1.desktop;
+x-scheme-handler/https=userapp-Firefox-NFRNE1.desktop;
+x-scheme-handler/chrome=userapp-Firefox-NFRNE1.desktop;
+text/html=userapp-Firefox-NFRNE1.desktop;
+application/x-extension-htm=userapp-Firefox-NFRNE1.desktop;
+application/x-extension-html=userapp-Firefox-NFRNE1.desktop;
+application/x-extension-shtml=userapp-Firefox-NFRNE1.desktop;
+application/xhtml+xml=userapp-Firefox-NFRNE1.desktop;
+application/x-extension-xhtml=userapp-Firefox-NFRNE1.desktop;
+application/x-extension-xht=userapp-Firefox-NFRNE1.desktop;
+application/vnd.ms-powerpoint=firefox.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice-startcenter.desktop;mupdf.desktop;
+application/x-cd-image=firefox.desktop;
+application/x-partial-download=gcr-viewer.desktop;
+application/pdf=mupdf.desktop;org.pwmt.zathura.desktop;
+image/png=gimp.desktop;org.xfce.ristretto.desktop;
