@@ -131,6 +131,9 @@ ex ()
     echo "'$1' is not a valid file"
   fi
 }
+
+### ALIAS' ###
+
 # Import terminal colorscheme from 'wal'
 # (wal -r &)
 # cat /home/jack/.cache/wal/sequences
@@ -172,12 +175,17 @@ alias n='nvim'
 alias pip3.9='~/.local/bin/pip3.9'
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 alias startup='feh --bg-scale  /usr/share/backgrounds/void_1.png'
+alias s='startx'
 c() { cd "$@" && exa; }
-##PATH##
+
+## ENV Variables ##
 export PATH="/home/jack/.local/bin:$PATH"
-export PATH="/home/jack/Desktop/pypy3.8-v7.3.7-linux64/bin:$PATH"
-export PATH="/home/jack/.cargo/bin:$PATH"
+# export PATH="/home/jack/Desktop/pypy3.8-v7.3.7-linux64/bin:$PATH"
+# export PATH="/home/jack/.cargo/bin:$PATH"
+# export PATH="/home/jack/.scripts/:$PATH"
+export BROWSER="firefox"
 #######
+
 # startup
 clear
 echo ""
